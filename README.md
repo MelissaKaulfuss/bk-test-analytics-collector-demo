@@ -1,2 +1,2 @@
-# bk-test-analytics
+# buildkite-test-analytics-collector-demo
 Place to test Test Analytics
